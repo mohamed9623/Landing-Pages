@@ -24,6 +24,6 @@ This is a multi-section landing page with dynamic menu.
 15. FIX: Correct hide/show nav bar feature
 16. FEAT: Fill README
 
-## Instructions
+
 
 
